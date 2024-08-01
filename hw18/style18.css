@@ -16,6 +16,10 @@ header{
     align-items: center;
     gap: 573px;
 }
+header ul a:hover{
+    border-bottom: 4px solid peachpuff;
+
+}
 ul{
     list-style-type: none;
     display: flex;
